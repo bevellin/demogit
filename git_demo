@@ -1,0 +1,14 @@
+1 .path show => whereis git
+
+2. version show => git --version
+
+3. git --help
+
+4. verify the git config
+	git config --list
+
+	
+
+	bevellin@hyipiran.ir
+
+
